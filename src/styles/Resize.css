@@ -1,0 +1,10 @@
+
+.size-container {
+    max-width: 500px;
+    width: 100%;
+    margin: 35px auto;
+    text-align: center;
+}
+.size-text {
+    font-size: 48px;
+}
